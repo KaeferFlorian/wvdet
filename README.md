@@ -1,6 +1,6 @@
 # wvdet
 
-Described in `Toward the low-scatter selection of X-ray clusters. Galaxy cluster detection with eROSITA through cluster outskirts, F. K{\"a}fer, A. Finoguenov, D. Eckert, N. Clerc, M.E. Ramos-Ceja, J.S. Sanders, V. Ghirardini. Astronomy and Astrophysics, 634:A8`.
+Described in `Toward the low-scatter selection of X-ray clusters. Galaxy cluster detection with eROSITA through cluster outskirts, F. Käfer, A. Finoguenov, D. Eckert, N. Clerc, M.E. Ramos-Ceja, J.S. Sanders, V. Ghirardini. Astronomy and Astrophysics, 634:A8`.
 
 ## Introduction
 
